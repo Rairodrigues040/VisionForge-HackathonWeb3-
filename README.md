@@ -15,6 +15,8 @@ O **VisionSurge** é uma plataforma de treinamento em Realidade Virtual desenvol
 O sistema simula atividades de instrumentação cirúrgica permitindo que estudantes e profissionais pratiquem repetidamente sem riscos ao paciente e sem depender da disponibilidade de centros cirúrgicos reais.
 Desenvolvido durante um Hackathon com foco em inovação para a área da saúde.
 
+## Sobre a estruturação de pastas
+A organização das pastas enviadas neste repositório segue o padrão aprendido em aula. Optamos por esse modelo devido à familiariadade e a simplicidade na organização.
 
 ## 🎯 Problema resolvido
 
