@@ -15,8 +15,6 @@ O **VisionSurge** é uma plataforma de treinamento em Realidade Virtual desenvol
 O sistema simula atividades de instrumentação cirúrgica permitindo que estudantes e profissionais pratiquem repetidamente sem riscos ao paciente e sem depender da disponibilidade de centros cirúrgicos reais.
 Desenvolvido durante um Hackathon com foco em inovação para a área da saúde.
 
-## Sobre a estruturação de pastas
-A organização das pastas enviadas neste repositório segue o padrão aprendido em aula. Optamos por esse modelo devido à familiariadade e a simplicidade na organização.
 
 ## 🎯 Problema resolvido
 
@@ -185,20 +183,8 @@ Alguns modelos 3D utilizados no projeto são assets externos de apoio, e foram r
 
 ---
 
-## Como executar o projeto
-
-### Pré-requisitos
-
-Antes de abrir o projeto, é necessário ter instalado:
-
-- Unity Hub;
-- Unity 6000.3.13f1 ou versão compatível;
-- suporte a XR Plugin Management;
-- suporte ao Unity Input System;
-- ambiente configurado para simulação VR no Unity.
-
-
-### Passo a passo
+### Passo a passo de como executar o projeto
+## Caso queira utilizar a build:
 
 1. Acesse o repositório:
 
@@ -212,25 +198,49 @@ git clone https://github.com/SEU-USUARIO/VisionSurge.git
 
 4. participe do treinamento.
 
+## Caso queira testar atráves do editor:
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/SEU-USUARIO/VisionSurge.git
+```
+
+2. Abra o Unity Hub.
+
+3. Clique em **Add project from disk**.
+
+4. Selecione a pasta do projeto clonado.
+
+5. Aguarde o Unity resolver os pacotes do projeto.
+
+6. Abra a cena principal:
+
+```txt
+Assets/Scenes/SampleScene.unity
+```
+
+7. Execute a cena pelo botão **Play** no Unity Editor.
+
 ---
 ## Demonstração
 
 ### Vídeo demo
 
 ```txt
-https://youtube.com/SEU-LINK-VIDEO-DEMO
+https://drive.google.com/file/d/1hEupUU-fgu_LEOFDDBDBZqolJp8kwqOy/view?usp=sharing
 ```
 
 ### Vídeo pitch
 
 ```txt
-https://youtube.com/SEU-LINK-VIDEO-PITCH
+https://youtu.be/f82-_1KnRws
 ```
 
 ### Slides da apresentação
 
 ```txt
-https://drive.google.com/SEU-LINK-SLIDES
+https://drive.google.com/file/d/1bQC-aDVh_a5gyEyo463o9F7a8T4Znrsv/view?usp=drive_link
 ```
 ---
 ## ≠ Diferenciais do projeto
