@@ -51,6 +51,8 @@ O fluxo principal da experiência é:
 5. o instrumento é entregue ao médico;
 6. o sistema valida se a entrega está correta ou incorreta.
 
+##Estruturação do template 
+optamos por utilizar o modelo padrão disponibilizado pela plataforma Homero por sua simplicidade facilidade de navegação e otimização de processo.
 
 ---
 
@@ -184,21 +186,6 @@ Alguns modelos 3D utilizados no projeto são assets externos de apoio, e foram r
 ---
 
 ### Passo a passo de como executar o projeto
-## Caso queira utilizar a build:
-
-1. Acesse o repositório:
-
-```bash
-git clone https://github.com/SEU-USUARIO/VisionSurge.git
-```
-
-2. faça o download do arquivo .exe.
-
-3. Clique duas vezes ou, com o botão direito, executar como administrador.
-
-4. participe do treinamento.
-
-## Caso queira testar atráves do editor:
 
 1. Clone o repositório:
 
