@@ -51,7 +51,7 @@ O fluxo principal da experiência é:
 5. o instrumento é entregue ao médico;
 6. o sistema valida se a entrega está correta ou incorreta.
 
-##Estruturação do template 
+## Estruturação do template 
 optamos por utilizar o modelo padrão disponibilizado pela plataforma Homero por sua simplicidade facilidade de navegação e otimização de processo.
 
 ---
